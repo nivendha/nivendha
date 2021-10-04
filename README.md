@@ -37,7 +37,7 @@
 - [Designing data-intensive applications— Data models and Query language](https://knivendha.medium.com/designing-data-intensive-applications-data-models-and-query-language-1f80c017e5cd)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://blog.nivendha.com)
+➡️ [more blog posts...](https://blog.nivendha.me)
 
 ---
 ### GitHub Stats
